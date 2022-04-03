@@ -1,3 +1,5 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://imgur.com/a/jfBP9CQ)
+![Portfolio Website]
+
+This portfolio website was made with reactJs and NextJS
